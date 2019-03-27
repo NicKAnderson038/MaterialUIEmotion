@@ -1,2 +1,0 @@
-# MaterialUIEmotion
-Created with CodeSandbox
